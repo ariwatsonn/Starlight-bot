@@ -1,0 +1,12 @@
+{
+    "success": [
+        "Robaste un banco y escapaste con *¥{amount} yenes*.",
+        "Asaltaste a un millonario y te quedaste con *¥{amount} yenes*.",
+        "Engañaste a un empresario y obtuviste *¥{amount} yenes*."
+    ],
+    "fail": [
+        "Intentaste robar un banco, pero la policía te atrapó y perdiste *¥{amount} cabezas*.",
+        "Falsificaste billetes, pero te descubrieron y te quitaron *¥{amount} yenes*.",
+        "Te atraparon estafando y te multaron con *¥{amount} yenes*."
+    ]
+}

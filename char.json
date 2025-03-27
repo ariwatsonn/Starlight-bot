@@ -1,0 +1,27 @@
+{
+  "1742782202239": {
+    "nombreSerie": "Oyasumi Punpun = oyasumi_punpun",
+    "personajes": {
+      "1742782243533": {
+        "nombre": "Aiko Tanaka",
+        "tag": "aiko_tanaka",
+        "genero": "female"
+      }
+    }
+  },
+  "1742785995955": {
+    "nombreSerie": "Aku no Hana = aku_no_hana",
+    "personajes": {
+      "1742786105437": {
+        "nombre": "Nanako Saeki",
+        "tag": "saeki_nanako",
+        "genero": "desconocido"
+      },
+      "1742786146819": {
+        "nombre": "Sawa Nakamura",
+        "tag": "sawa_nakamura",
+        "genero": "desconocido"
+      }
+    }
+  }
+}
